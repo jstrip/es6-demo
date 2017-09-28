@@ -6,6 +6,15 @@ source code belajar setup babel untuk mengcompile es6
 * npm
 
 ## Installasi & Setup
+clone atau download repository ini, kemudian masuk ke dalam folder tersebut
+```
+git clone https://github.com/jstrip/es6-demo.git
+```
+
+```
+cd es6-demo
+```
+
 jalankan perintah ini dari terminal atau command line
 ```
 npm install
